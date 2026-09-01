@@ -43,6 +43,11 @@
 
 ---
 
+### 🗃️ Caching & Messaging
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
 ### 🔄 Automation & Integration
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
